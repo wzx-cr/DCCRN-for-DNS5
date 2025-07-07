@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 1.9995026588439941,
+"input_sdr": 2.0145416056427794,
+"input_sir": Infinity,
+"input_sar": 2.0145416056427794,
+"input_stoi": 0.7515643416078833,
+"input_pesq": 1.146440029144287,
+"si_sdr": 13.645761489868164,
+"sdr": 14.100712528040338,
+"sir": Infinity,
+"sar": 14.100712528040338,
+"stoi": 0.9050069548576835,
+"pesq": 1.9628651142120361,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp622_baby_416680_0_snr2_tl-34_fileid_234.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_234.wav"
+}

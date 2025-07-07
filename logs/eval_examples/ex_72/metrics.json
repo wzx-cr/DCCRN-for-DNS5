@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 18.992429733276367,
+"input_sdr": 19.00400454938454,
+"input_sir": Infinity,
+"input_sar": 19.00400454938454,
+"input_stoi": 0.9853956685564139,
+"input_pesq": 2.1509604454040527,
+"si_sdr": 18.70465087890625,
+"sdr": 19.062840629153616,
+"sir": Infinity,
+"sar": 19.062840629153616,
+"stoi": 0.9871810961919922,
+"pesq": 2.145057439804077,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp176_chair_154380_0_snr19_tl-32_fileid_35.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_35.wav"
+}

@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 3.9638283252716064,
+"input_sdr": 3.984656878229478,
+"input_sir": Infinity,
+"input_sar": 3.984656878229478,
+"input_stoi": 0.8143799412472545,
+"input_pesq": 1.0878311395645142,
+"si_sdr": 13.140908241271973,
+"sdr": 13.398601324752548,
+"sir": Infinity,
+"sar": 13.398601324752548,
+"stoi": 0.8837530310922064,
+"pesq": 1.6431493759155273,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp47_fan_out_83867_5_snr4_tl-34_fileid_277.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_277.wav"
+}

@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 18.99915313720703,
+"input_sdr": 19.006670129776488,
+"input_sir": Infinity,
+"input_sar": 19.006670129776488,
+"input_stoi": 0.9823395347851679,
+"input_pesq": 2.6182150840759277,
+"si_sdr": 20.11914825439453,
+"sdr": 20.348583968921133,
+"sir": Infinity,
+"sar": 20.348583968921133,
+"stoi": 0.9731509139887341,
+"pesq": 2.9904518127441406,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp640_barking_196127_1_snr19_tl-19_fileid_218.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_218.wav"
+}

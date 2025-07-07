@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 7.039342403411865,
+"input_sdr": 7.05612591874126,
+"input_sir": Infinity,
+"input_sar": 7.05612591874126,
+"input_stoi": 0.9222961978489561,
+"input_pesq": 1.2179276943206787,
+"si_sdr": 13.357271194458008,
+"sdr": 13.48888603826004,
+"sir": Infinity,
+"sar": 13.48888603826004,
+"stoi": 0.9630692637784262,
+"pesq": 2.0388271808624268,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp327_air_conditioner_371242_0_snr7_tl-21_fileid_8.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_8.wav"
+}

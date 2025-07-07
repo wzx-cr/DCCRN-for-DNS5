@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 5.990604877471924,
+"input_sdr": 5.997452290430977,
+"input_sir": Infinity,
+"input_sar": 5.997452290430977,
+"input_stoi": 0.8450762523073805,
+"input_pesq": 1.243446946144104,
+"si_sdr": 8.043030738830566,
+"sdr": 8.090034933346049,
+"sir": Infinity,
+"sar": 8.090034933346049,
+"stoi": 0.8885265141617664,
+"pesq": 1.5430972576141357,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp295_CnLQFM08y1U_snr6_tl-25_fileid_4.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_4.wav"
+}

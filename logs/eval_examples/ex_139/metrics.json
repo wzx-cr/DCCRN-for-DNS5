@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 5.995946884155273,
+"input_sdr": 6.0205241863796495,
+"input_sir": Infinity,
+"input_sar": 6.0205241863796495,
+"input_stoi": 0.9452285894387387,
+"input_pesq": 1.489384412765503,
+"si_sdr": 15.746331214904785,
+"sdr": 16.019967087441614,
+"sir": Infinity,
+"sar": 16.019967087441614,
+"stoi": 0.9487612355450327,
+"pesq": 2.441418170928955,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp476_birds_413745_5_snr6_tl-21_fileid_291.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_291.wav"
+}

@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 1.0151840448379517,
+"input_sdr": 1.0389409463254837,
+"input_sir": Infinity,
+"input_sar": 1.0389409463254837,
+"input_stoi": 0.6870925645669209,
+"input_pesq": 1.0598326921463013,
+"si_sdr": 9.045817375183105,
+"sdr": 9.298829196067688,
+"sir": Infinity,
+"sar": 9.298829196067688,
+"stoi": 0.7486769346440963,
+"pesq": 1.2560466527938843,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp628_water_147808_0_snr1_tl-33_fileid_53.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_53.wav"
+}

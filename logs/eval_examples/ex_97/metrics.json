@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 11.034459114074707,
+"input_sdr": 11.076725042198676,
+"input_sir": Infinity,
+"input_sar": 11.076725042198676,
+"input_stoi": 0.9728683097266461,
+"input_pesq": 2.155123472213745,
+"si_sdr": 17.06508445739746,
+"sdr": 17.222933573494814,
+"sir": Infinity,
+"sar": 17.222933573494814,
+"stoi": 0.9857383877318179,
+"pesq": 2.8994858264923096,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp91_washer_400403_3_snr11_tl-30_fileid_228.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_228.wav"
+}

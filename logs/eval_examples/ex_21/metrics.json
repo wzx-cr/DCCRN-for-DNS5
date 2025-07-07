@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 5.9836506843566895,
+"input_sdr": 6.00157823870404,
+"input_sir": Infinity,
+"input_sar": 6.00157823870404,
+"input_stoi": 0.8287622241150845,
+"input_pesq": 1.1369227170944214,
+"si_sdr": 12.300979614257812,
+"sdr": 12.429525979603193,
+"sir": Infinity,
+"sar": 12.429525979603193,
+"stoi": 0.9215159532781754,
+"pesq": 1.8887025117874146,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp524_train_181130_1_snr6_tl-18_fileid_169.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_169.wav"
+}

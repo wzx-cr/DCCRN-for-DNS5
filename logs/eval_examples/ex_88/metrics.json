@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 17.995946884155273,
+"input_sdr": 18.01031895272802,
+"input_sir": Infinity,
+"input_sar": 18.01031895272802,
+"input_stoi": 0.9533615735110059,
+"input_pesq": 1.5410189628601074,
+"si_sdr": 20.245677947998047,
+"sdr": 20.297986334219726,
+"sir": Infinity,
+"sar": 20.297986334219726,
+"stoi": 0.9610258245571603,
+"pesq": 2.017909288406372,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp352_clatter_noise_431472__debsound__retro-bicycle-minsk-aist-20-ride-loop-rear-wheel_0_snr18_tl-33_fileid_166.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_166.wav"
+}

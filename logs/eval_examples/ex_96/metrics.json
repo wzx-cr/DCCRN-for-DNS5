@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 5.015320301055908,
+"input_sdr": 5.035525339174415,
+"input_sir": Infinity,
+"input_sar": 5.035525339174415,
+"input_stoi": 0.8394809099656542,
+"input_pesq": 1.4508799314498901,
+"si_sdr": 11.909808158874512,
+"sdr": 12.684932338368522,
+"sir": Infinity,
+"sar": 12.684932338368522,
+"stoi": 0.9354864899810329,
+"pesq": 2.2403922080993652,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp621_clatter_noise_194994__soundmary__metalic-squeeks-and-clunks_0_snr5_tl-35_fileid_221.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_221.wav"
+}

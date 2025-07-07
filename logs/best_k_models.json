@@ -1,0 +1,7 @@
+{
+"/mnt/cloudstorfs/sjtu_home/zixiang.wang/DNS-Challenge-master/asteroid-master/egs/dns_challenge_INTERSPEECH2020/DCCRN-master/logs/checkpoints/epoch=24-step=56250.ckpt": -16.3680477142334,
+"/mnt/cloudstorfs/sjtu_home/zixiang.wang/DNS-Challenge-master/asteroid-master/egs/dns_challenge_INTERSPEECH2020/DCCRN-master/logs/checkpoints/epoch=26-step=60750.ckpt": -16.344938278198242,
+"/mnt/cloudstorfs/sjtu_home/zixiang.wang/DNS-Challenge-master/asteroid-master/egs/dns_challenge_INTERSPEECH2020/DCCRN-master/logs/checkpoints/epoch=28-step=65250.ckpt": -16.416534423828125,
+"/mnt/cloudstorfs/sjtu_home/zixiang.wang/DNS-Challenge-master/asteroid-master/egs/dns_challenge_INTERSPEECH2020/DCCRN-master/logs/checkpoints/epoch=31-step=72000.ckpt": -16.415117263793945,
+"/mnt/cloudstorfs/sjtu_home/zixiang.wang/DNS-Challenge-master/asteroid-master/egs/dns_challenge_INTERSPEECH2020/DCCRN-master/logs/checkpoints/epoch=32-step=74250.ckpt": -16.335538864135742
+}

@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 6.00953483581543,
+"input_sdr": 6.0187091144119815,
+"input_sir": Infinity,
+"input_sar": 6.0187091144119815,
+"input_stoi": 0.9030519264323723,
+"input_pesq": 1.2664904594421387,
+"si_sdr": 12.82834529876709,
+"sdr": 13.024975630814968,
+"sir": Infinity,
+"sar": 13.024975630814968,
+"stoi": 0.9575595701523524,
+"pesq": 1.9765779972076416,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp250_vacuum_388017_2_snr6_tl-20_fileid_231.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_231.wav"
+}

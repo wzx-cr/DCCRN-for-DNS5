@@ -1,0 +1,16 @@
+{
+"input_si_sdr": 18.005983352661133,
+"input_sdr": 18.019670424146085,
+"input_sir": Infinity,
+"input_sar": 18.019670424146085,
+"input_stoi": 0.9629714992216808,
+"input_pesq": 2.1670165061950684,
+"si_sdr": 18.776535034179688,
+"sdr": 18.800795257119688,
+"sir": Infinity,
+"sar": 18.800795257119688,
+"stoi": 0.9673592694658353,
+"pesq": 2.2562122344970703,
+"noisy_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/noisy/clnsp76_babble_188218_0_snr18_tl-28_fileid_117.wav",
+"clean_path": "/hpc_stor03/sjtu_home/zixiang.wang/DNS-Challenge-master/datasets/no_reverb/clean/clean_fileid_117.wav"
+}
