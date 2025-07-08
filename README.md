@@ -1,0 +1,3 @@
+1.使用noisyspeech_synthesizer_singleprocess.py合成数据集
+2.使用train训练模型
+3.使用eval测评
